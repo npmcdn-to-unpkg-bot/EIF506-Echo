@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="768" measuredH="942" mockupW="724" mockupH="932">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="44" y="10" w="724" h="932" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="44" y="83" w="324" h="27" measuredW="304" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inicio%2C%20Productos%2C%20Contacto%2C%20Acerca%20de</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="596" y="173" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Item%20One%0AItem%20Two%0AItem%20Three</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="59" y="25" w="223" h="-1" measuredW="142" measuredH="35" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Mi%20Tienda</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="74" y="164" w="209" h="241" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="44" y="10" w="724" h="100" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="74" y="132" w="-1" h="-1" measuredW="116" measuredH="17" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Nuevos%20Productos</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="579" y="132" w="-1" h="-1" measuredW="135" measuredH="17" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Productos%20Anteriores</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="74" y="420" w="365" h="186" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>Es%20una%20tienda%20de%20ropa%20femenina%20en%20la%20que%20encuentras%20todo%20lo%20que%20buscas%2C%20ofrecemos%20una%20%20gran%20gama%20de%20colores%20y%20estilos%20novedosos%2C%20ademas%20de%20prendas%20como%3A%20vestidos%2C%20jeans%2C%20mini%20faldas%2C%20blusas%2C%20top%2C%20shorts%2C%20pasarrillos%2C%20pantalones%20de%20vestir%20y%20mucho%20mas.%0AVisitanos%20y%20te%20daras%20cuenta%20que%20ofrecemos%20un%20nuevo%20estilo%2C%20estamos%20implantando%20una%20nueva%20moda%20de%20vestir%20en%20la%20se%F1oritas.%20%0AA%20demas%20todo%20el%20a%F1o%20habran%20promociones%20especiales%2C%20no%20te%20las%20puedes%20perder</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

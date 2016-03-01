@@ -1,0 +1,101 @@
+﻿/*!
+ * CSS 
+ *Marianela Viquez.
+ */
+/* Para el contenedor  */
+.container { 
+    border: 10px solid black;
+    overflow: auto; 
+}
+
+/* *****Clases para el header  ********************/
+/**************************************************/
+header { 
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: left;
+    width: 100%;
+}
+
+.title{
+        color: white;
+        padding-left: 20px;
+}
+
+.title-section{
+        padding-left: 20px;
+}
+/**************************************************/
+
+/* *****Clases para el menu  *^^*******************/
+/**************************************************/
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111;
+}
+
+/**************************************************/
+
+/* *****Clases para las columnas  *****************/
+/**************************************************/
+article { 
+    display: block;
+     float: left;
+    width: 70%;
+}
+
+aside{
+     float: left;
+    width: 30%;
+}
+
+/**************************************************/
+
+
+/*  clase para la imagen*/
+img{
+    padding-left: 15px;
+}
+
+/*alinear texto*/
+.text-align{
+    text-align: justify;
+}
+
+
+/* *****Resize ************************************/
+/**************************************************/
+@media screen and (max-width: 800px) {
+    aside{
+    width: 100%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    nav{
+    width: 100%;
+    }
+}
+/**************************************************/
