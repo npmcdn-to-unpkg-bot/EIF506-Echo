@@ -1,0 +1,89 @@
+﻿/*!
+ * CSS 
+ *Marianela Viquez. MOBILE FIRST
+ */
+/* Para el contenedor  */
+.container { 
+    border: 10px solid black;
+    overflow: auto; 
+}
+
+/* *****Clases para el header  ********************/
+/**************************************************/
+header { 
+    
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: left;
+    width: 100%;
+}
+
+.title{
+        color: white;
+       text-align: center;
+}
+
+.title-section{
+        padding-left: 20px;
+}
+
+h1, h2{
+	 text-align: center;
+}
+/**************************************************/
+
+/* *****Clases para el menu  *^^*******************/
+/**************************************************/
+
+.nav ul {
+   padding-left: 0px;
+   border-color: 1px solid red;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+
+}
+
+.nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111;
+}
+
+/**************************************************/
+
+/* *****Clases para las columnas  *****************/
+/**************************************************/
+article { 
+    display: block;
+     float: left;
+    width: 100%;
+}
+
+aside{
+     float: left;
+    width: 100%;
+}
+
+/**************************************************/
+
+/*  clase para la imagen*/
+img{
+    width: 100%;
+}
+
+
+/*alinear texto*/
+.text-align{
+    text-align: center;
+}
+
+
+/**************************************************/
