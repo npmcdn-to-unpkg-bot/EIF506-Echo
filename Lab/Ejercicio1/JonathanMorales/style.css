@@ -1,0 +1,77 @@
+
+
+.bloke0 {
+   float: left;
+
+    left: 5%;
+}
+.bloke1 {
+   
+   
+	margin-left:5%;
+}
+.footer {
+
+ 
+   margin-top: 10%;
+   
+   
+
+}
+
+.content {
+ 
+	padding-left:5%;
+	padding-right:%;
+    width: 100%;
+	
+	
+	}
+ul#pie {
+text-align:center;
+
+}
+ul#pie li {
+display:inline;
+padding:5px;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+
+.bloke0 {
+  float: left;
+    background-color:red;
+    left: 5%;
+	}
+.bloke1 {
+   background-color:blue;
+    float: left;
+   
+    left: 5%;
+}
+.footer {
+  
+   float: left;
+  
+  
+   
+
+}
+
+
+
+
+
+}
+ 
+
+
+
