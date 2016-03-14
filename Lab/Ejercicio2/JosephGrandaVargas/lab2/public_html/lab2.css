@@ -1,0 +1,284 @@
+
+section article #aa {
+
+    margin: 20px;
+    width: 325px;
+    height: 325px;
+    margin: 20px;
+    background-color: green;
+    border-style: dashed;
+
+}
+
+
+
+section article #aa > div {
+    width: 200px;
+    height: 200px;
+
+    margin: 20px;
+
+
+    background-color: #3F51B5;
+
+    padding: 20px;
+
+    border: solid gray 20px;
+
+}
+
+
+section article #ab {
+    width: 95%;
+    height: 100px;
+    margin-bottom: 100px;
+    background-color: green;
+    border-style: dotted;
+
+}
+
+section article #ab #ab1 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+
+section article #ab #ab2 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+      
+}
+
+section article #ab #ab3 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+
+section article #ac {
+    width: 95%;
+    height: 100px;
+    margin-bottom: 100px;
+    background-color: green;
+    border-style: dotted;
+
+    text-align: center;
+}
+
+
+section article #ac #ac1 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: lightskyblue;
+    border-style: dashed;
+          position: absolute;
+    top: 950px;
+    left: 200px;
+    
+}
+
+section article #ac #ac2 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: lightskyblue;
+    border-style: dashed;
+    
+position: absolute;
+    top: 900px;
+    left: 10px;    
+}
+
+section article #ac #ac3 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    background-color: lightskyblue;
+    border-style: dashed;
+    
+        position: absolute;
+      top:850px;
+      right: 90px;
+      
+}
+
+
+section article #ba {
+    width: available;
+    height: 180px;
+    margin-bottom: 100px;
+    background-color: green;
+    border-style: dotted;
+
+}
+
+section article #ba #ba11 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+
+section article #ba #ba12 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+      
+}
+
+section article #ba #ba13 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba14 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba15 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba16 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+section article #ba #ba21 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+
+section article #ba #ba22 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+      
+}
+
+section article #ba #ba23 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba24 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba25 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+      float: left;
+}
+section article #ba #ba26 {
+    width: min-content;
+    height: min-content;
+    margin: 20px;
+    margin-top: 0px;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+
+
+
+
+footer {
+    background-color: #012427;
+    width:100%;
+    font-weight:normal;
+    color:#586C78;
+    letter-spacing:1pt;
+    word-spacing:2pt;
+    font-size:70%;
+    text-align:left;
+    font-family:verdana, sans-serif;
+    line-height:2;
+}
+
+section article #bb {
+    width: available;
+    height: 380px;
+    margin-bottom: 100px;
+    background-color: green;
+    border-style: dotted;
+
+}
+
+section article #bb > div  {
+    width: available;
+    height: 380px;
+    margin: 10px;
+    background-color: lightseagreen;
+    border-style: dotted;
+
+}
+
+section article #bb > div #bb11  {
+    width: 100%;
+    height: min-content;
+    margin: 10px;
+    background-color: lightseagreen;
+    border-style: dotted;
+
+    
+
+}
