@@ -1,0 +1,199 @@
+/*==========  Desktop First Method  ==========*/
+
+#header {
+    float: left;
+}
+
+#container {
+
+    width: 100%;
+
+}
+#header h1 {
+    text-align: left;
+}
+
+
+
+#aside-center {
+    float: right;
+    width: 25%;
+    padding: 20px 0;
+    margin: 0 3% 0 0;
+}
+
+#aside-right {
+    float: right;
+    width: 25%;
+    padding: 20px 0;
+    margin: 0 3% 0 0;
+}
+
+
+#navigation {
+    float: left;
+    width: 100%;
+}
+
+#navigation ul li {
+    display: inline;
+    width: 100%;
+}
+
+#navigation li a {
+    float: right;
+    border-right: 1px solid #fff;
+}
+
+#content {
+    width: 40%;
+    padding: 20px 0;
+
+}
+
+#content-container {
+    float: left;
+}
+
+img.main-img {
+    width: 990px;
+    height: 340px;
+}
+
+#footer {
+    text-align: right;
+}
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    #header {
+        float:left;
+    }
+
+    #container {
+        float:left;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #header h1 {
+        text-align: center;
+    }
+    #navigation {
+        float: left;
+        width: 100%;
+    }
+
+    #navigation ul li {
+        display: block;
+    }
+
+    #navigation li a {
+
+        border-right: 1px solid #fff;
+    }
+
+    #content {
+        width: 40%;
+        padding: 20px 0;
+
+    }
+
+    #content h2 {
+        margin: 0;
+    }
+
+    #aside-center {
+        float: right;
+        width: 25%;
+        padding: 20px 0;
+        margin: 0 3% 0 0;
+    }
+
+    #aside-right {
+        float: right;
+        width: 25%;
+        padding: 20px 0;
+        margin: 0 3% 0 0;
+    }
+
+
+
+
+    #content-container {
+        float: left;
+    }
+    img.main-img {
+        width: 460px;
+    }
+
+    #footer {
+        text-align: right;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    #header {
+        top: 0px;
+        left: 0px;
+    }
+
+    #aside-center {
+        float: left;;
+        width: 100%;
+        padding: 0;
+    }
+    #aside-right {
+        float: left;;
+        width: 100%;
+        padding: 0;
+    }
+
+
+
+    #content {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+
+    #content h2 {
+        margin: 5% 0;
+    }
+
+    #navigation {
+        margin:0px;
+    }
+
+    #navigation ul li {
+        display: block;
+    }	
+
+    #navigation li a {
+        float: left;
+        border-right: 1px solid #fff;
+        display: inline;
+        width: 100%;
+    }
+
+    #footer {
+        text-align: center;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}

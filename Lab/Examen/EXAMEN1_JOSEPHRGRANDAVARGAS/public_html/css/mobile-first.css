@@ -1,0 +1,186 @@
+/*==========  Mobile First Method  ==========*/
+#header {
+    top: 0px;
+    left: 0px;
+}
+
+#header h1{
+    text-align: center;
+}
+
+#aside-center {
+    float: left;;
+    width: 100%;
+    padding: 0;
+}
+#aside-right {
+    float: left;
+    width: 100%;
+    padding: 0;
+}
+
+#aside-center #sub-section-center {
+    width: 100%;
+    height: min-content;
+    background-color: greenyellow;
+    border-style: dashed;
+    float: left;
+}
+
+#content {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+#navigation {
+    margin:0px;
+}
+
+#navigation ul li {
+
+    display: block;
+}	
+
+#footer {
+    text-align: center;
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    #header {
+        float:left;
+    }
+
+    #container {
+        float:left;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #navigation {
+        float: left;
+        width: 100%;
+    }
+
+    #navigation ul li {
+        display: block;
+    }
+
+    #navigation li a {
+
+        border-right: 1px solid #fff;
+    }
+
+    #content {
+        width: 40%;
+        padding: 20px 0;
+        margin: 0 0 0 4%;
+    }
+
+    #content h2 {
+        margin: 0;
+    }
+
+    #aside-center {
+        float: right;
+        width: 25%;
+        padding: 20px 0;
+        margin: 0 3% 0 0;
+    }
+
+    #aside-right {
+        float: right;
+        width: 25%;
+        padding: 20px 0;
+        margin: 0 3% 0 0;
+    }
+
+    #content-container {
+        float: left;
+
+    }
+
+    img.main-img {
+        width: 460px;
+    }
+
+    #footer {
+        text-align: right;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+    #header {
+        float: left;
+    }
+
+    #header h1{
+        text-align: left;
+    }
+
+    #container {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #navigation {
+        float: left;
+        width: 100%;
+    }
+
+    #navigation ul li {
+        display: inline;
+    }
+
+    #navigation li a {
+        float: right;
+        border-right: 1px solid #fff;
+    }
+
+    #content {
+        width: 35%;
+        padding: 20px 0;
+        margin: 0 0 0 4%;
+    }
+
+    #content h2 {
+        margin: 0;
+    }
+
+    #aside-center {
+        float: right;
+        width: 25%;
+        padding: 20px 0;
+        margin: 0 3% 0 0;
+    }
+
+    #content-container {
+        float: left;
+    }
+
+    img.main-img {
+        width: 990px;
+        height: 340px;
+    }
+
+    #footer {
+        text-align: right;
+    }
+}

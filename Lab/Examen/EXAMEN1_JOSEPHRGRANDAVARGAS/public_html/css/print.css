@@ -1,0 +1,39 @@
+/** For printing **/
+
+@media print {
+    #header,
+    #navigation
+    {
+        display: none;
+    }
+
+    img.main-img {
+        width: 50%;
+        height: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    #content,
+    #aside-center,
+    #aside-right,
+    #aside-full{
+        float: left;
+        width: 100%;
+        display: inline;
+    }
+
+
+    img.main-img { 
+        display: none;
+    }
+
+    img.sm2-img {
+        display: none;
+    }
+
+    img.sm3-img {
+        display: none;
+    }
+
+
+}
